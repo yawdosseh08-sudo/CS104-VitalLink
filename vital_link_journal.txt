@@ -13,5 +13,5 @@
     "temperature": "98.4 F"
   },
   "assessment": "Excellent health for a hobbit of his age.",
-  "plan": "Maintain balanced diet, regular walks, and minimal dragon exposure."
+  "plan": "Maintain balanced diet, regular walks, and minimal dragon exposure.  TEMPORARY CHANGE"
 }
